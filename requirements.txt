@@ -1,0 +1,5 @@
+vertexai
+moviepy
+Pillow
+pytesseract
+SpeechRecognition
